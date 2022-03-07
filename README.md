@@ -2,6 +2,7 @@
 DNSlog And DNS_Server And Interception analysis
 DNSLog 功能 DNS_Server 功能 恶意拦截域名劫持 功能
 小脚本用于学习原理
+![image](https://github.com/chinaYozz/DNSLog/blob/main/help/dnslog.PNG)
 
 # 安装使用
 # nstallation and use
