@@ -48,3 +48,9 @@ pip3 install -U requests[socks] -i https://pypi.tuna.tsinghua.edu.cn/simple
 # Malicious interception of domain name hijacking
 Set the domain name to be intercepted in the script and point to the IP. The script intercepts Baidu to 127.0.0.1 by default
 From this, we can build phishing websites and intercept pornographic websites etc.
+
+# 免责说明/Disclaimer
+该脚本仅用于网络学习测试，不得用于违法用途，出现问题概不负责
+使用脚本及为同意以上条约
+The script is only used for e-learning test and shall not be used for illegal purposes. We will not be responsible for any problems
+Use scripts and to agree to the above treaties
